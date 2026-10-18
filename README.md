@@ -2,7 +2,7 @@
 hay , in this repo the fonal is available for linex only 
 to use fonal you must have to do some simple steps 
 
-~SETUP~
+~SETUP ~
 STEP 1 .
 downloads the app
 STEP 2 . 
